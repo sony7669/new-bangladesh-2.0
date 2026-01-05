@@ -1,0 +1,52 @@
+
+
+/* Nav style */
+nav{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 160px;
+    padding-right: 160px;
+    align-items: center;
+    font-family: "Fira Sans", sans-serif;
+}
+
+/* Button Style */
+.btn-primary{
+    border-radius: 8px;
+    font-size: 18px;
+    font-weight: 600px;
+    background-color: #FFFFFF;
+    padding: 15px 30px;
+    color: #006A50;
+    font-family: "Fira Sans", sans-serif;
+}
+
+.btn-secondary{
+    font-family: "Fira Sans", sans-serif;
+    background-color: #006A50;
+    padding: 25px;
+    border-radius: 8px;
+    font-size: 15px;
+    font-weight: 600;
+    color: #FFFFFF;
+    border: none;
+}
+
+/* Hero section style */
+.banner-container{
+    display: flex;
+    justify-content: center;
+    gap: 64px;
+    align-items: center;
+    margin: 20px 160px 20px 160px;
+    background-color: #C6E4D6;
+    padding-left: 60px;
+    padding-right: 60px;
+    font-family: "Fira Sans", sans-serif;
+    border-radius: 24px;
+}
+
+.banner-content img{
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
